@@ -115,6 +115,8 @@ Publications
 Speaker
 -------
 
+[**Collaboration to Create TM Best Practices**](https://locworld.com/sessions/microtalk-collaboration-to-create-tm-best-practices/) — LocWorld41 Silicon Valley 2019: Talked about how globalization specialists from different companies collaborated to document best practices for managing translation memories, and shared the results with the community.
+
 [**Continuous Localization for CI/CD Process**](https://locworld.com/sessions/continuous-localization-cicd-process/) — LocWorld35 Silicon Valley 2017: Presented how Veritas built a set of capabilities, tools and processes to enable the continuous localization model including static code analysis for internationalization issues, continuous localization of the software resource files, and automation detecting internationalization issues and highlighting UI changes between builds.
 
 [**Customer Experience at the Speed of Now — Continuous Delivery Localization That Engages Users**](https://locworld.com/sessions/customer-experience-speed-now-continuous-delivery-localization-engages-users/) — LocWorld32 Montreal 2016: Discussed what do we do to ensure continuous delivery localization happens, while keeping a close eye on the CX, looked at business drivers, methods, processes and best practices that deploy in a fast-changing agile environment.
