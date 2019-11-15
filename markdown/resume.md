@@ -22,7 +22,7 @@ Managing the end-to-end globalization process with integrations between the CMS 
 
 * Open sourced automation tools: [Globalization Automation Library](https://github.com/VeritasOS/glob-auto-library) and [Assisted Review Portal](https://github.com/VeritasOS/assisted-review-portal)
 
-* Maintained corpus and trained the machine translations engines (both statistical and neural), obtaining BLEU scores of 50+ for Asian, and 55+ for European languages
+* Maintained corpus and trained the machine translations engines (both statistical and neural), obtaining BLEU scores of 60+ for Asian, and 65+ for European languages
 
 * Built internal translation portal, streamlining ad-hoc localization requests
 
@@ -110,7 +110,7 @@ Publications
 
 **[Predicting the Length of Translated Text Using Statistics](http://ip.com/IPCOM/000230931)** — author of a defensive publication, describing a method of predicting the length (width) of text after translation by using existing translations of the same or similar English texts.
 
-[**Algorithms for digital watermarking of the audio signal**](https://repo.pw.edu.pl/info.seam?id=WEITI-b9b44f4b-277f-4e1f-bcff-8991968561fd) (Polish) — co-author of a paper describing the application of an auto-cepstrum analysis to detect a binary data embedded in the audio signal as an echo undetectable to a human ear.
+[**Algorithms for digital watermarking of the audio signal**](https://repo.pw.edu.pl/info.seam?id=WEITI-b9b44f4b-277f-4e1f-bcff-8991968561fd) (Polish) — co-author of a paper describing the application of an auto-cepstrum analysis to detect a binary data embedded in the audio signal in form of an echo undetectable to a human ear.
 
 Speaker
 -------
